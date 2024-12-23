@@ -3,12 +3,177 @@ body{
 }
 h1{
     background-color: white;
-    color: dimgrey;
-    font-size: 60px;
-    margin-top: 25px;
+    color: rgb(87, 87, 87);
+    font-size: 70px;
+    margin-top: 50px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+#one{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 105, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#two{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 125, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#three{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 140, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#four{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 155, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#five{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 167, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#six{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 190, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#seven{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(44, 200, 255);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#eight{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgba(81, 255, 0, 0.432);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#nine{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(255, 204, 240);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#ten{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(250, 175, 195);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#eleven{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(241, 144, 170);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#twelve{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(240, 115, 148);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#thirteen{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(247, 87, 119);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#fourteen{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(247, 63, 100);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#fivteen{
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(243, 33, 75);
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
